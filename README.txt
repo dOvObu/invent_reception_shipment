@@ -7,3 +7,6 @@
 Пожалуйста, исправьте первую строку файла _config.txt
 
 и сохраните изменения, нажав [ctrl]+[S]
+
+Setup file:
+  https://drive.google.com/open?id=1-ShHo6_UtwfhsRmn2Gq-Fa515Wxzmx3_
