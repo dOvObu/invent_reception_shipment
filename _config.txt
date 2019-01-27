@@ -1,0 +1,4 @@
+﻿C:/Program Files/Reception Shipment/DB_example.xml
+
+Первая строка этого файла должна содержать
+полный путь к xml файлу со списком номенклатур.
