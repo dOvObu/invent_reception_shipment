@@ -8,4 +8,4 @@
 
 и сохраните изменения, нажав [ctrl]+[S]
 
-<a href="https://drive.google.com/uc?export=download&id=19zqe0DJXonNWu6K99RTvpbI4WFkqM3BU">download setup file</a>
+<a href="https://drive.google.com/uc?export=download&id=19zqe0DJXonNWu6K99RTvpbI4WFkqM3BU"> download setup file</a>
